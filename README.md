@@ -1,9 +1,11 @@
-## Hi there 👋
+## 안녕하세요 👋
 
 <!--
 **teras06/teras06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### 나는.....
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
